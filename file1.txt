@@ -1,6 +1,4 @@
 test1
 
-
-
 Line1 from main branch
-Line2 form main branch
+line from branch1
