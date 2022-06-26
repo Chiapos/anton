@@ -1,2 +1,2 @@
-test1
-line from branch1
+line1 from branch1
+line2 from branch1 
