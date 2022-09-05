@@ -2,3 +2,4 @@ Just another file created in the feature1 branch
 Another line in feature-4 branch
 Another line
 Another line
+Another line!
